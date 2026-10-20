@@ -183,7 +183,7 @@ Kotlin · Jetpack Compose · Material 3 · Firebase Authentication · Cloud Fire
 
 ## 🔗 Related
 
-- **[WordVoyage (JSON version)](https://github.com/Lourdusmel-16/WordVoyage)**: stories bundled in the app, fully offline.
+- **[WordVoyage (JSON version)](https://github.com/Lourdusmel-16/WordVoyage)**: stories bundled in the app, fully offline(except for sign in).
 
 ## 🤝 Contributing
 
