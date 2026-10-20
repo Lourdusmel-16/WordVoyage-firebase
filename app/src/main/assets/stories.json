@@ -1,0 +1,194 @@
+[
+  {
+    "id": "g13_milo_mouse",
+    "title": "Milo the Mouse",
+    "gradeLevel": "Grades 1 to 3",
+    "ageGroup": "GRADES_1_3",
+    "difficulty": "Easy",
+    "order": 1,
+    "screens": [
+      "Milo is a small mouse. He lives in a warm hole under a big tree. Every morning he wakes up and sniffs the air.",
+      "One day Milo smells cheese. He runs out of his hole and looks around. The cheese is on a red plate by the gate.",
+      "Milo looks left and right. A big cat sleeps near the gate! Milo is a little scared, so he walks on his tiny toes.",
+      "Then Milo hears a small voice. It is his friend Pip, hiding behind a leaf. \"Let us go together,\" says Pip. They tiptoe past the sleepy cat.",
+      "Milo takes a small bite. It is so good! He shares the rest with his friend Pip. They both go home with full tummies."
+    ],
+    "quiz": {
+      "question": "Where does Milo live?",
+      "options": [
+        "Under a big tree",
+        "In a red house",
+        "By the sea"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "g13_sunny_park",
+    "title": "A Day at the Park",
+    "gradeLevel": "Grades 1 to 3",
+    "ageGroup": "GRADES_1_3",
+    "difficulty": "Easy",
+    "order": 2,
+    "screens": [
+      "Sam and his sister Ria go to the park. The sun is bright and the sky is blue. They see ducks on the pond.",
+      "Ria throws bread to the ducks. Quack, quack! The ducks swim fast to get it. Sam laughs and claps his hands.",
+      "Next, Sam finds a shiny red ball under a bush. \"Look, Ria!\" he says. They kick the ball back and forth on the green grass.",
+      "Soon the ball rolls away. Ria runs fast and picks it up. Sam cheers, \"Hooray!\" Then they eat a yummy snack under a big tree.",
+      "Then they play on the swings. Up and down, up and down. It is the best day ever."
+    ],
+    "quiz": {
+      "question": "What did Ria give to the ducks?",
+      "options": [
+        "Rice",
+        "Bread",
+        "Apples"
+      ],
+      "correctIndex": 1
+    }
+  },
+  {
+    "id": "g45_lost_lantern",
+    "title": "The Lost Lantern",
+    "gradeLevel": "Grades 4 to 5",
+    "ageGroup": "GRADES_4_5",
+    "difficulty": "Medium",
+    "order": 1,
+    "screens": [
+      "Every evening, the village of Tarn lit a lantern on the old stone bridge. It guided the fishermen safely home through the thick fog that rolled in from the sea.",
+      "One stormy night, the lantern disappeared. The villagers searched the bridge and the riverbank, but they found nothing except a trail of small, muddy footprints.",
+      "The footprints were too small to belong to any fisherman. Nina, the baker's daughter, grabbed a torch and offered to follow them, even though the rain was getting heavier.",
+      "The trail wound past the mill and through a field of tall, wet grass. Twice the prints vanished in puddles, but Nina stayed patient and found them again each time.",
+      "Nina followed the footprints to the edge of the woods. There, a family of owls was sheltering from the rain, with the glowing lantern warming their nest. Nina smiled, and the next day she built them a lantern of their own."
+    ],
+    "quiz": {
+      "question": "Why was the lantern important to the village?",
+      "options": [
+        "It decorated the bridge",
+        "It guided fishermen home in the fog",
+        "It scared away birds"
+      ],
+      "correctIndex": 1
+    }
+  },
+  {
+    "id": "g45_rani_river",
+    "title": "Rani and the River",
+    "gradeLevel": "Grades 4 to 5",
+    "ageGroup": "GRADES_4_5",
+    "difficulty": "Medium",
+    "order": 2,
+    "screens": [
+      "Rani lived in a small town beside a wide, slow river. Each summer, she collected smooth stones from the bank and arranged them into colourful patterns.",
+      "When a heavy flood washed away her stones, Rani felt sad. Her grandmother reminded her that the river gives and the river takes, and that there would always be more stones to find.",
+      "For a few days, Rani stayed away from the water. She sat on the porch and sketched her old patterns on paper, wishing she could see the stones again.",
+      "One evening her grandmother sat beside her and told her about the river's seasons. In spring it rushes, in summer it rests, and in every season it carries gifts from far away.",
+      "The next morning, Rani walked along the bank again. The water had left behind brand new stones in shapes and colours she had never seen. She began her patterns once more."
+    ],
+    "quiz": {
+      "question": "How did Rani feel after the flood?",
+      "options": [
+        "Angry",
+        "Sad",
+        "Excited"
+      ],
+      "correctIndex": 1
+    }
+  },
+  {
+    "id": "g68_clockmaker",
+    "title": "The Clockmaker's Secret",
+    "gradeLevel": "Grades 6 to 8",
+    "ageGroup": "GRADES_6_8",
+    "difficulty": "Medium",
+    "order": 1,
+    "screens": [
+      "Above the market square stood a clock tower that had not chimed for as long as anyone could remember. Most people ignored it, but Theo, a curious apprentice, noticed a faint light flickering behind its dusty windows.",
+      "Climbing the winding stairs, he discovered an elderly clockmaker repairing the great mechanism by hand. The man explained that he had been secretly restoring each gear for years, hoping to surprise the town on its anniversary.",
+      "The clockmaker made Theo promise to keep the work a secret. In return, he taught him how to oil the tiny springs and set each gear so that it fitted perfectly.",
+      "Over the following weeks, Theo climbed the tower every evening after his chores. Some gears were stubborn, and one night a spring snapped, but together they found a way to mend it.",
+      "On the day of the festival, the bells rang out across the square. The crowd gasped, then cheered. Theo had kept the secret, and he understood that patience can be a gift."
+    ],
+    "quiz": {
+      "question": "What was the clockmaker doing in the tower?",
+      "options": [
+        "Hiding treasure",
+        "Restoring the clock",
+        "Painting the walls"
+      ],
+      "correctIndex": 1
+    }
+  },
+  {
+    "id": "g68_storm_hills",
+    "title": "Storm Over the Hills",
+    "gradeLevel": "Grades 6 to 8",
+    "ageGroup": "GRADES_6_8",
+    "difficulty": "Hard",
+    "order": 2,
+    "screens": [
+      "The hiking group had been climbing for hours when the sky turned a threatening shade of grey. Mira checked the map and realised the nearest shelter was still two kilometres away.",
+      "Thunder rumbled across the valley as the first heavy drops fell. Their guide calmly told everyone to stay together, keep a steady pace and avoid the exposed ridge.",
+      "The path narrowed and the wind grew stronger. One hiker, Dev, wanted to hurry along the ridge, but the guide shook her head and pointed to a safer trail through the pines.",
+      "Lightning flashed over the far peak. Mira counted the seconds before the thunder, as her father had taught her, and she called out that the storm was moving closer.",
+      "By the time they reached the wooden hut, they were soaked but safe. Sitting around a small stove, Mira realised that staying calm had mattered more than moving quickly."
+    ],
+    "quiz": {
+      "question": "What did the guide tell the group to avoid?",
+      "options": [
+        "The forest path",
+        "The exposed ridge",
+        "The river"
+      ],
+      "correctIndex": 1
+    }
+  },
+  {
+    "id": "g912_lighthouse",
+    "title": "The Last Lighthouse Keeper",
+    "gradeLevel": "Grades 9 to 12",
+    "ageGroup": "GRADES_9_12",
+    "difficulty": "Hard",
+    "order": 1,
+    "screens": [
+      "For forty years, Elias had climbed the two hundred and twelve steps of the Harrow Point lighthouse each dusk. Automation had made his job obsolete long ago, yet the authorities allowed him to stay, regarding him as a harmless relic.",
+      "When a violent storm knocked out the automated systems, the coast fell dark. Ships navigating the treacherous rocks suddenly had no warning, and the emergency channels crackled with confusion.",
+      "Elias did not wait for orders. He hurried up the two hundred and twelve steps, ignoring the ache in his knees, because he knew exactly how long the ships had before the rocks claimed them.",
+      "The old lamp had not been lit in years. Its brass fittings were stiff and the oil was low, but his hands remembered every step of the routine as if he had never stopped.",
+      "Elias lit the old lamp by hand. Its beam swept across the water, steady and unmistakable. By dawn, every vessel had reached harbour, and the so-called relic had proved that experience cannot be replaced by machinery alone."
+    ],
+    "quiz": {
+      "question": "What proved to be valuable during the storm?",
+      "options": [
+        "The automated systems",
+        "Elias's experience",
+        "A new radio"
+      ],
+      "correctIndex": 1
+    }
+  },
+  {
+    "id": "g912_signals",
+    "title": "Signals from Orbit",
+    "gradeLevel": "Grades 9 to 12",
+    "ageGroup": "GRADES_9_12",
+    "difficulty": "Hard",
+    "order": 2,
+    "screens": [
+      "Dr. Anand stared at the monitor in disbelief. The satellite, silent for eleven months, had begun transmitting again, its signal faint but unmistakably structured.",
+      "The team worked through the night, filtering interference and reconstructing the corrupted data packets. Gradually, a pattern emerged: the satellite had survived a solar storm by rebooting itself into a low-power safe mode.",
+      "By midnight, the engineers had tested three theories. The first blamed a failed antenna and the second a corrupted memory chip, but neither explained the faint, repeating pulse.",
+      "Priya, the youngest analyst, noticed that the pulse followed the satellite's orbit. If the craft was still running its original schedule, she argued, it must be alive and waiting for a command.",
+      "As the first clear images arrived, the control room erupted in applause. Years of careful engineering and stubborn persistence had finally paid off, reminding everyone that resilience is designed, not accidental."
+    ],
+    "quiz": {
+      "question": "Why had the satellite gone silent?",
+      "options": [
+        "It ran out of fuel",
+        "It rebooted into safe mode after a solar storm",
+        "It was switched off by mistake"
+      ],
+      "correctIndex": 1
+    }
+  }
+]

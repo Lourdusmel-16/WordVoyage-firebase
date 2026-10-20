@@ -1,0 +1,19 @@
+.gradle/
+build/
+*.apk
+*.aab
+.idea/
+*.iml
+local.properties
+captures/
+
+# Secrets - NEVER upload
+app/google-services.json
+*.jks
+*.keystore
+
+# Large speech model (users download it, see docs/SETUP.md)
+app/src/main/assets/sherpa-model/
+
+.DS_Store
+Thumbs.db
