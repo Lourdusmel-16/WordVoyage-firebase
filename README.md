@@ -148,9 +148,6 @@ Full, step-by-step instructions are in **[docs/SETUP.md](docs/SETUP.md)**. In sh
 6. Add the speech-recognition model files to `app/src/main/assets/sherpa-model/`.
 7. Run on a real Android device and allow the microphone.
 
-**Tests:** `./gradlew testDebugUnitTest`
-**CI:** every push builds the app on GitHub Actions. Add a repository secret named `GOOGLE_SERVICES_JSON` containing the full text of your `google-services.json`.
-
 ---
 
 ## 🗂️ Project structure
