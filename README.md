@@ -1,4 +1,4 @@
-# WordVoyage (Firestore Edition) ☁️📖
+# WordVoyage (Firebase Edition) ☁️📖
 
 ![Build](https://github.com/Lourdusmel-16/WordVoyage-firebase/actions/workflows/android.yml/badge.svg)
 ![Platform](https://img.shields.io/badge/platform-Android-3DDC84?logo=android&logoColor=white)
@@ -64,7 +64,7 @@ It listens to the child, highlights each word as it is read, offers help when th
 
 ---
 
-## ☁️ Why the Firestore version?
+## ☁️ Why the Firebase version?
 
 - **Live content updates:** add a story in Firebase and every user sees it right away.
 - **Admin upload for everyone:** an admin pastes a story's JSON into the app, taps **Upload to Firestore**, and it is saved to the cloud, not just to one device.
