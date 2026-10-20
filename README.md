@@ -1,6 +1,6 @@
 # WordVoyage (Firestore Edition) ☁️📖
 
-![Build](https://github.com/Lourdusmel-16/WordVoyage-Firestore/actions/workflows/android.yml/badge.svg)
+![Build](https://github.com/Lourdusmel-16/WordVoyage-firestore/actions/workflows/android.yml/badge.svg)
 ![Platform](https://img.shields.io/badge/platform-Android-3DDC84?logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Jetpack%20Compose-7F52FF?logo=kotlin&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-Auth%20%2B%20Firestore-FFCA28?logo=firebase&logoColor=black)
