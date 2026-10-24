@@ -1,6 +1,6 @@
-# WordVoyage (Firestore Edition) ☁️📖
+# WordVoyage (Firebase Edition) ☁️📖
 
-![Build](https://github.com/Lourdusmel-16/WordVoyage-Firestore/actions/workflows/android.yml/badge.svg)
+![Build](https://github.com/Lourdusmel-16/WordVoyage-firebase/actions/workflows/android.yml/badge.svg)
 ![Platform](https://img.shields.io/badge/platform-Android-3DDC84?logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Jetpack%20Compose-7F52FF?logo=kotlin&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-Auth%20%2B%20Firestore-FFCA28?logo=firebase&logoColor=black)
@@ -64,7 +64,7 @@ It listens to the child, highlights each word as it is read, offers help when th
 
 ---
 
-## ☁️ Why the Firestore version?
+## ☁️ Why the Firebase version?
 
 - **Live content updates:** add a story in Firebase and every user sees it right away.
 - **Admin upload for everyone:** an admin pastes a story's JSON into the app, taps **Upload to Firestore**, and it is saved to the cloud, not just to one device.
@@ -148,9 +148,6 @@ Full, step-by-step instructions are in **[docs/SETUP.md](docs/SETUP.md)**. In sh
 6. Add the speech-recognition model files to `app/src/main/assets/sherpa-model/`.
 7. Run on a real Android device and allow the microphone.
 
-**Tests:** `./gradlew testDebugUnitTest`
-**CI:** every push builds the app and runs the unit tests on GitHub Actions. Add a repository secret named `GOOGLE_SERVICES_JSON` containing the full text of your `google-services.json`.
-
 ---
 
 ## 🗂️ Project structure
@@ -186,7 +183,7 @@ Kotlin · Jetpack Compose · Material 3 · Firebase Authentication · Cloud Fire
 
 ## 🔗 Related
 
-- **[WordVoyage (JSON version)](https://github.com/Lourdusmel-16/WordVoyage)**: stories bundled in the app, fully offline.
+- **[WordVoyage (JSON version)](https://github.com/Lourdusmel-16/WordVoyage)**: stories bundled in the app, fully offline(except for sign in).
 
 ## 🤝 Contributing
 
