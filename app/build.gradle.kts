@@ -48,4 +48,5 @@ dependencies {
     implementation("com.google.code.gson:gson:2.10.1")
     implementation(files("libs/sherpa-onnx-1.13.8.aar"))
     implementation("androidx.compose.material:material-icons-extended")
+    testImplementation("junit:junit:4.13.2")
 }
